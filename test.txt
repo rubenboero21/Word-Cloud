@@ -1,0 +1,3 @@
+hello, the dog jumped over the cat!
+goodbye, the cat jumped over the fox
+hello, hello, hello
